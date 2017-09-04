@@ -28,7 +28,7 @@
 
 英文原版地址：https://www.frontendhandbook.com/
 
-资源下载: 
+资源 下载: 
 - [PDF版](http://pan.baidu.com/s/1c0frhIS)
 - [MOBI版](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
 
